@@ -1,2 +1,2 @@
-# car-acing
-car
+# synchronousBallMovement
+Ball moving synchronously
